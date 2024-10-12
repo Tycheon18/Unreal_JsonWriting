@@ -1,0 +1,16 @@
+{
+	"jsonBaseArray": [
+		{
+			"name": "One",
+			"description": "This is One",
+			"color": "Black",
+			"number": 1
+		},
+		{
+			"name": "Two",
+			"description": "This is Two",
+			"color": "White",
+			"number": 2
+		}
+	]
+}
